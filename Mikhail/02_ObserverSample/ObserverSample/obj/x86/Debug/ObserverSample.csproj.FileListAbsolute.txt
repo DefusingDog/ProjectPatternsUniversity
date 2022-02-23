@@ -1,0 +1,12 @@
+H:\Паттерны\02_ObserverSample\ObserverSample\bin\Debug\ObserverSample.exe
+H:\Паттерны\02_ObserverSample\ObserverSample\bin\Debug\ObserverSample.pdb
+H:\Паттерны\02_ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.csprojAssemblyReference.cache
+H:\Паттерны\02_ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.csproj.CoreCompileInputs.cache
+H:\Паттерны\02_ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.exe
+H:\Паттерны\02_ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.pdb
+C:\Users\m.doronin\Desktop\02_ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.csprojAssemblyReference.cache
+C:\Users\m.doronin\Desktop\02_ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.csproj.CoreCompileInputs.cache
+C:\Users\m.doronin\Desktop\02_ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.exe
+C:\Users\m.doronin\Desktop\02_ObserverSample\ObserverSample\obj\x86\Debug\ObserverSample.pdb
+C:\Users\m.doronin\Desktop\02_ObserverSample\ObserverSample\bin\Debug\ObserverSample.exe
+C:\Users\m.doronin\Desktop\02_ObserverSample\ObserverSample\bin\Debug\ObserverSample.pdb
