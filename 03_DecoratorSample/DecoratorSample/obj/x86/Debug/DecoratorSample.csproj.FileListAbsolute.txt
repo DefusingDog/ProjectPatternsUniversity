@@ -1,0 +1,12 @@
+H:\Паттерны\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.csprojAssemblyReference.cache
+H:\Паттерны\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.csproj.CoreCompileInputs.cache
+H:\Паттерны\03_DecoratorSample\DecoratorSample\bin\Debug\DecoratorSample.exe
+H:\Паттерны\03_DecoratorSample\DecoratorSample\bin\Debug\DecoratorSample.pdb
+H:\Паттерны\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.exe
+H:\Паттерны\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.pdb
+C:\Users\e.kulikov1\Desktop\03_DecoratorSample\DecoratorSample\bin\Debug\DecoratorSample.exe
+C:\Users\e.kulikov1\Desktop\03_DecoratorSample\DecoratorSample\bin\Debug\DecoratorSample.pdb
+C:\Users\e.kulikov1\Desktop\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.csprojAssemblyReference.cache
+C:\Users\e.kulikov1\Desktop\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.csproj.CoreCompileInputs.cache
+C:\Users\e.kulikov1\Desktop\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.exe
+C:\Users\e.kulikov1\Desktop\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.pdb
