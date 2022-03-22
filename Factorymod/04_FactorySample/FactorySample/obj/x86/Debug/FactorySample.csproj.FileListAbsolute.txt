@@ -1,0 +1,12 @@
+H:\Паттерны\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.csprojAssemblyReference.cache
+H:\Паттерны\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.csproj.CoreCompileInputs.cache
+H:\Паттерны\04_FactorySample\FactorySample\bin\Debug\FactorySample.exe
+H:\Паттерны\04_FactorySample\FactorySample\bin\Debug\FactorySample.pdb
+H:\Паттерны\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.exe
+H:\Паттерны\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.pdb
+I:\Temp\Kotov\04_FactorySample\FactorySample\bin\Debug\FactorySample.exe
+I:\Temp\Kotov\04_FactorySample\FactorySample\bin\Debug\FactorySample.pdb
+I:\Temp\Kotov\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.csprojAssemblyReference.cache
+I:\Temp\Kotov\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.csproj.CoreCompileInputs.cache
+I:\Temp\Kotov\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.exe
+I:\Temp\Kotov\04_FactorySample\FactorySample\obj\x86\Debug\FactorySample.pdb

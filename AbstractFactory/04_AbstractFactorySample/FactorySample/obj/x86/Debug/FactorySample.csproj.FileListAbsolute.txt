@@ -1,0 +1,6 @@
+H:\ПаТтЕрНы\AbstractFactory\04_AbstractFactorySample\FactorySample\bin\Debug\FactorySample.exe
+H:\ПаТтЕрНы\AbstractFactory\04_AbstractFactorySample\FactorySample\bin\Debug\FactorySample.pdb
+H:\ПаТтЕрНы\AbstractFactory\04_AbstractFactorySample\FactorySample\obj\x86\Debug\FactorySample.csprojAssemblyReference.cache
+H:\ПаТтЕрНы\AbstractFactory\04_AbstractFactorySample\FactorySample\obj\x86\Debug\FactorySample.csproj.CoreCompileInputs.cache
+H:\ПаТтЕрНы\AbstractFactory\04_AbstractFactorySample\FactorySample\obj\x86\Debug\FactorySample.exe
+H:\ПаТтЕрНы\AbstractFactory\04_AbstractFactorySample\FactorySample\obj\x86\Debug\FactorySample.pdb
